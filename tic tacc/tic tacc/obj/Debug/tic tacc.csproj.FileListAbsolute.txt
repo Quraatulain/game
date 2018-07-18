@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\bin\Debug\tic tacc.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\obj\Debug\tic tacc.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\obj\Debug\tic_tacc.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\obj\Debug\tic_tacc.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\obj\Debug\tic tacc.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\bin\Debug\tic tacc.exe
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\bin\Debug\tic tacc.pdb
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\obj\Debug\tic tacc.exe
+c:\users\hp\documents\visual studio 2012\Projects\tic tacc\tic tacc\obj\Debug\tic tacc.pdb
